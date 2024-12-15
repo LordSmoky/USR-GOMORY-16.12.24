@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+font: 14px sans-serif,Georgia,"Times New Roman",Verdana,Arial;
+line-height: 1.42857143;
+color: #333;
+background-color: #fff;
+margin: 0;
+}
+
+#premain {
+    overflow: scroll;
+    border: dashed 1px rgb(153, 170, 204);
+}
+
+tr, td{
+    border: 1px solid;
+}
